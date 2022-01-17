@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-variant: small-caps;
+  text-transform: capitalize;
+  margin: 50px auto;
+  text-align: center;
+  text-shadow: 1px 1px white;
+  scroll-behavior: smooth;
+}
+
+div {
+  width: 100%;
+  height: 500px;
+  background: #bababa;
+}
+
+a {
+  background: gold;
+  color: black;
+  padding: 10px;
+  margin: 50px auto;
+  text-decoration: none;
+  border-radius: 5px;
+}
